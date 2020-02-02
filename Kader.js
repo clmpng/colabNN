@@ -1,6 +1,6 @@
 
 async function yourFunction() { 
-const model = await tf.loadLayersModel("https://github.com/clmpng/colabNN/blob/master/model_Punktevorhersage.json")
+const model = await tf.loadLayersModel("/model/model.json")
 }
 
 yourFunction();
