@@ -1,6 +1,6 @@
 
 async function yourFunction() { 
-const model = await tf.loadLayersModel("/model.json")
+const model = await tf.loadLayersModel("/model/model.json")
 }
 
 yourFunction();
