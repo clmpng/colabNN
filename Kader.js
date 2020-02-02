@@ -29,7 +29,7 @@ yourFunction();
 /* var access_token = 'ALexfNLaV053SX8h+iC9XvVow9sgeKiz7JrY94ufMhW4GZGWoExvVG9cz789dVGsMarOHnbW9wjh0CGTDVC4p169XAySvYJtJvGoMaNalHbXcxotSzFCCYYPwB8YOtvIvTM5quyI7KaqqyZbKnlcqM\u002FMqGekw8LSb3v\u002FTHSmyiI0ECuu1ChJVhYTHrkIU1ET'
 var spielerArray = [];
 var MarketValues = [];
-var selectedPlayers = [];
+var selectedPlayers = []; 
 
 var panel = document.createElement("panel");
 	panel.innerHTML = "<div class = 'panel' id='panel'>"
