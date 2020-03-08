@@ -105,8 +105,8 @@ function Suche(){
 
 function test(){ 
 var data = {
-                   email: "chrissi95@msn.com",
-				   password: "Formel1#K"	
+                   email: "xxx",
+				   password: "xxxx"	
                 };
 	var requestT = new XMLHttpRequest();
 	requestT.open("POST", "https://api.kickbase.com/v1/user/login",  true);
