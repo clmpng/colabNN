@@ -84827,6 +84827,77 @@
                         }
                      ]
                   },
+		{
+                     "team1": "SVW",
+                     "team2": "SGE",
+                     "stats": [
+                        {
+                           "attribute": "Tore",
+                           "valueTeam1": "0",
+                           "valueTeam2": "3"
+                        },
+                        {
+                           "attribute": "Ballbesitz (%)",
+                           "valueTeam1": "48",
+                           "valueTeam2": "52"
+                        },
+                        {
+                           "attribute": "Schüsse aufs Tor",
+                           "valueTeam1": "3",
+                           "valueTeam2": "4"
+                        },
+                        {
+                           "attribute": "Schüsse neben das Tor",
+                           "valueTeam1": "4",
+                           "valueTeam2": "2"
+                        },
+                        {
+                           "attribute": "Freistöße",
+                           "valueTeam1": "21",
+                           "valueTeam2": "21"
+                        },
+                        {
+                           "attribute": "Eckbälle",
+                           "valueTeam1": "5",
+                           "valueTeam2": "6"
+                        },
+                        {
+                           "attribute": "Abseits",
+                           "valueTeam1": "6",
+                           "valueTeam2": "2"
+                        },
+                        {
+                           "attribute": "Gehaltene Bälle",
+                           "valueTeam1": "0",
+                           "valueTeam2": "3"
+                        },
+                        {
+                           "attribute": "Fouls",
+                           "valueTeam1": "15",
+                           "valueTeam2": "19"
+                        },
+                        {
+                           "attribute": "Zweikämpfe (%)",
+                           "valueTeam1": "94.1",
+                           "valueTeam2": "63.6"
+                        },
+                        {
+                           "attribute": "Pässe (%)",
+                           "valueTeam1": "79.0",
+                           "valueTeam2": "83.9"
+                        },
+                        {
+                           "attribute": "Gelbe Karten",
+                           "valueTeam1": "2",
+                           "valueTeam2": "2"
+                        },
+                        {
+                           "attribute": "Platzverweise",
+                           "valueTeam1": "0",
+                           "valueTeam2": "0"
+                        }
+                     ]
+                  },
                   {
                      "team1": "RBL",
                      "team2": "B04",
