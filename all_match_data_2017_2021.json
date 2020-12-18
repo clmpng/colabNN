@@ -1,0 +1,617 @@
+{
+   "seasons": [
+      {
+         "season": 2017,
+         "matchdays": [
+            {
+               "matchday": 1,
+               "matches": []
+            },
+            {
+               "matchday": 2,
+               "matches": []
+            },
+            {
+               "matchday": 3,
+               "matches": []
+            },
+            {
+               "matchday": 4,
+               "matches": []
+            },
+            {
+               "matchday": 5,
+               "matches": []
+            },
+            {
+               "matchday": 6,
+               "matches": []
+            },
+            {
+               "matchday": 7,
+               "matches": []
+            },
+            {
+               "matchday": 8,
+               "matches": []
+            },
+            {
+               "matchday": 9,
+               "matches": []
+            },
+            {
+               "matchday": 10,
+               "matches": []
+            },
+            {
+               "matchday": 11,
+               "matches": []
+            },
+            {
+               "matchday": 12,
+               "matches": []
+            },
+            {
+               "matchday": 13,
+               "matches": []
+            },
+            {
+               "matchday": 14,
+               "matches": []
+            },
+            {
+               "matchday": 15,
+               "matches": []
+            },
+            {
+               "matchday": 16,
+               "matches": []
+            },
+            {
+               "matchday": 17,
+               "matches": []
+            },
+            {
+               "matchday": 18,
+               "matches": []
+            },
+            {
+               "matchday": 19,
+               "matches": []
+            },
+            {
+               "matchday": 20,
+               "matches": []
+            },
+            {
+               "matchday": 21,
+               "matches": []
+            },
+            {
+               "matchday": 22,
+               "matches": []
+            },
+            {
+               "matchday": 23,
+               "matches": []
+            },
+            {
+               "matchday": 24,
+               "matches": []
+            },
+            {
+               "matchday": 25,
+               "matches": []
+            },
+            {
+               "matchday": 26,
+               "matches": []
+            },
+            {
+               "matchday": 27,
+               "matches": []
+            },
+            {
+               "matchday": 28,
+               "matches": []
+            },
+            {
+               "matchday": 29,
+               "matches": []
+            },
+            {
+               "matchday": 30,
+               "matches": []
+            },
+            {
+               "matchday": 31,
+               "matches": []
+            },
+            {
+               "matchday": 32,
+               "matches": []
+            },
+            {
+               "matchday": 33,
+               "matches": []
+            },
+            {
+               "matchday": 34,
+               "matches": []
+            }
+         ]
+      },
+      {
+         "season": 2018,
+         "matchdays": [
+            {
+               "matchday": 1,
+               "matches": []
+            },
+            {
+               "matchday": 2,
+               "matches": []
+            },
+            {
+               "matchday": 3,
+               "matches": []
+            },
+            {
+               "matchday": 4,
+               "matches": []
+            },
+            {
+               "matchday": 5,
+               "matches": []
+            },
+            {
+               "matchday": 6,
+               "matches": []
+            },
+            {
+               "matchday": 7,
+               "matches": []
+            },
+            {
+               "matchday": 8,
+               "matches": []
+            },
+            {
+               "matchday": 9,
+               "matches": []
+            },
+            {
+               "matchday": 10,
+               "matches": []
+            },
+            {
+               "matchday": 11,
+               "matches": []
+            },
+            {
+               "matchday": 12,
+               "matches": []
+            },
+            {
+               "matchday": 13,
+               "matches": []
+            },
+            {
+               "matchday": 14,
+               "matches": []
+            },
+            {
+               "matchday": 15,
+               "matches": []
+            },
+            {
+               "matchday": 16,
+               "matches": []
+            },
+            {
+               "matchday": 17,
+               "matches": []
+            },
+            {
+               "matchday": 18,
+               "matches": []
+            },
+            {
+               "matchday": 19,
+               "matches": []
+            },
+            {
+               "matchday": 20,
+               "matches": []
+            },
+            {
+               "matchday": 21,
+               "matches": []
+            },
+            {
+               "matchday": 22,
+               "matches": []
+            },
+            {
+               "matchday": 23,
+               "matches": []
+            },
+            {
+               "matchday": 24,
+               "matches": []
+            },
+            {
+               "matchday": 25,
+               "matches": []
+            },
+            {
+               "matchday": 26,
+               "matches": []
+            },
+            {
+               "matchday": 27,
+               "matches": []
+            },
+            {
+               "matchday": 28,
+               "matches": []
+            },
+            {
+               "matchday": 29,
+               "matches": []
+            },
+            {
+               "matchday": 30,
+               "matches": []
+            },
+            {
+               "matchday": 31,
+               "matches": []
+            },
+            {
+               "matchday": 32,
+               "matches": []
+            },
+            {
+               "matchday": 33,
+               "matches": []
+            },
+            {
+               "matchday": 34,
+               "matches": []
+            }
+         ]
+      },
+      {
+         "season": 2019,
+         "matchdays": [
+            {
+               "matchday": 1,
+               "matches": []
+            },
+            {
+               "matchday": 2,
+               "matches": []
+            },
+            {
+               "matchday": 3,
+               "matches": []
+            },
+            {
+               "matchday": 4,
+               "matches": []
+            },
+            {
+               "matchday": 5,
+               "matches": []
+            },
+            {
+               "matchday": 6,
+               "matches": []
+            },
+            {
+               "matchday": 7,
+               "matches": []
+            },
+            {
+               "matchday": 8,
+               "matches": []
+            },
+            {
+               "matchday": 9,
+               "matches": []
+            },
+            {
+               "matchday": 10,
+               "matches": []
+            },
+            {
+               "matchday": 11,
+               "matches": []
+            },
+            {
+               "matchday": 12,
+               "matches": []
+            },
+            {
+               "matchday": 13,
+               "matches": []
+            },
+            {
+               "matchday": 14,
+               "matches": []
+            },
+            {
+               "matchday": 15,
+               "matches": []
+            },
+            {
+               "matchday": 16,
+               "matches": []
+            },
+            {
+               "matchday": 17,
+               "matches": []
+            },
+            {
+               "matchday": 18,
+               "matches": []
+            },
+            {
+               "matchday": 19,
+               "matches": []
+            },
+            {
+               "matchday": 20,
+               "matches": []
+            },
+            {
+               "matchday": 21,
+               "matches": []
+            },
+            {
+               "matchday": 22,
+               "matches": []
+            },
+            {
+               "matchday": 23,
+               "matches": []
+            },
+            {
+               "matchday": 24,
+               "matches": []
+            },
+            {
+               "matchday": 25,
+               "matches": []
+            },
+            {
+               "matchday": 26,
+               "matches": []
+            },
+            {
+               "matchday": 27,
+               "matches": []
+            },
+            {
+               "matchday": 28,
+               "matches": []
+            },
+            {
+               "matchday": 29,
+               "matches": []
+            },
+            {
+               "matchday": 30,
+               "matches": []
+            },
+            {
+               "matchday": 31,
+               "matches": []
+            },
+            {
+               "matchday": 32,
+               "matches": []
+            },
+            {
+               "matchday": 33,
+               "matches": []
+            },
+            {
+               "matchday": 34,
+               "matches": []
+            }
+         ]
+      },
+      {
+         "season": 2020,
+         "matchdays": [
+            {
+               "matchday": 1,
+               "matches": []
+            },
+            {
+               "matchday": 2,
+               "matches": []
+            },
+            {
+               "matchday": 3,
+               "matches": []
+            },
+            {
+               "matchday": 4,
+               "matches": []
+            },
+            {
+               "matchday": 5,
+               "matches": []
+            },
+            {
+               "matchday": 6,
+               "matches": []
+            },
+            {
+               "matchday": 7,
+               "matches": []
+            },
+            {
+               "matchday": 8,
+               "matches": []
+            },
+            {
+               "matchday": 9,
+               "matches": []
+            },
+            {
+               "matchday": 10,
+               "matches": []
+            },
+            {
+               "matchday": 11,
+               "matches": []
+            },
+            {
+               "matchday": 12,
+               "matches": []
+            },
+            {
+               "matchday": 13,
+               "matches": []
+            },
+            {
+               "matchday": 14,
+               "matches": []
+            },
+            {
+               "matchday": 15,
+               "matches": []
+            },
+            {
+               "matchday": 16,
+               "matches": []
+            },
+            {
+               "matchday": 17,
+               "matches": []
+            },
+            {
+               "matchday": 18,
+               "matches": []
+            },
+            {
+               "matchday": 19,
+               "matches": []
+            },
+            {
+               "matchday": 20,
+               "matches": []
+            },
+            {
+               "matchday": 21,
+               "matches": []
+            },
+            {
+               "matchday": 22,
+               "matches": []
+            },
+            {
+               "matchday": 23,
+               "matches": []
+            },
+            {
+               "matchday": 24,
+               "matches": []
+            },
+            {
+               "matchday": 25,
+               "matches": []
+            },
+            {
+               "matchday": 26,
+               "matches": []
+            },
+            {
+               "matchday": 27,
+               "matches": []
+            },
+            {
+               "matchday": 28,
+               "matches": []
+            },
+            {
+               "matchday": 29,
+               "matches": []
+            },
+            {
+               "matchday": 30,
+               "matches": []
+            },
+            {
+               "matchday": 31,
+               "matches": []
+            },
+            {
+               "matchday": 32,
+               "matches": []
+            },
+            {
+               "matchday": 33,
+               "matches": []
+            },
+            {
+               "matchday": 34,
+               "matches": []
+            }
+         ]
+      },
+      {
+         "season": 2021,
+         "matchdays": [
+            {
+               "matchday": 1,
+               "matches": []
+            },
+            {
+               "matchday": 2,
+               "matches": []
+            },
+            {
+               "matchday": 3,
+               "matches": []
+            },
+            {
+               "matchday": 4,
+               "matches": []
+            },
+            {
+               "matchday": 5,
+               "matches": []
+            },
+            {
+               "matchday": 6,
+               "matches": []
+            },
+            {
+               "matchday": 7,
+               "matches": []
+            },
+            {
+               "matchday": 8,
+               "matches": []
+            },
+            {
+               "matchday": 9,
+               "matches": []
+            },
+            {
+               "matchday": 10,
+               "matches": []
+            },
+            {
+               "matchday": 11,
+               "matches": []
+            }
+         ]
+      }
+   ]
+}
